@@ -4,11 +4,12 @@
 // import SwtichBackgloundColor from "./components/SwitchBackgloundColor/SwtichBackgloundColor";
 // import Feedback from "./components/Feedback/Feedback";
 // import Temperature from "./components/Temperature/Temperature";
-import Quiz from "./components/Quiz/Quiz";
+// import Quiz from "./components/Quiz/Quiz";
+import Clock from "./components/Clock/Clock";
 function App() {
   return (
     <>
-      <Quiz />
+      <Clock />
     </>
   );
 }
