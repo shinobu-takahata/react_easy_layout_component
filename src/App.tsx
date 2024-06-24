@@ -6,12 +6,13 @@
 // import Temperature from "./components/Temperature/Temperature";
 // import Quiz from "./components/Quiz/Quiz";
 // import Clock from "./components/Clock/Clock";
-import RandomQuotes from "./components/RandomQuotes/RandomQuotes";
+// import RandomQuotes from "./components/RandomQuotes/RandomQuotes";
+import TrafficLight from "./components/TrafficLight/TrafficLight";
 
 function App() {
   return (
     <>
-      <RandomQuotes />
+      <TrafficLight />
     </>
   );
 }
