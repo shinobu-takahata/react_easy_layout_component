@@ -5,11 +5,13 @@
 // import Feedback from "./components/Feedback/Feedback";
 // import Temperature from "./components/Temperature/Temperature";
 // import Quiz from "./components/Quiz/Quiz";
-import Clock from "./components/Clock/Clock";
+// import Clock from "./components/Clock/Clock";
+import RandomQuotes from "./components/RandomQuotes/RandomQuotes";
+
 function App() {
   return (
     <>
-      <Clock />
+      <RandomQuotes />
     </>
   );
 }
