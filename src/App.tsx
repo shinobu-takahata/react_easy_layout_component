@@ -7,12 +7,13 @@
 // import Quiz from "./components/Quiz/Quiz";
 // import Clock from "./components/Clock/Clock";
 // import RandomQuotes from "./components/RandomQuotes/RandomQuotes";
-import TrafficLight from "./components/TrafficLight/TrafficLight";
+// import TrafficLight from "./components/TrafficLight/TrafficLight";
+import Timer from "./components/Timer/Timer";
 
 function App() {
   return (
     <>
-      <TrafficLight />
+      <Timer />
     </>
   );
 }
