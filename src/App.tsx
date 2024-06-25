@@ -10,12 +10,13 @@
 // import TrafficLight from "./components/TrafficLight/TrafficLight";
 // import Timer from "./components/Timer/Timer";
 // import Starwars from "./components/Starwars/Starwars";
-import Pokemon from "./components/Pokemon/Pokemon";
+// import Pokemon from "./components/Pokemon/Pokemon";
+import MemoApp from "./components/MemoApp/MemoApp";
 
 function App() {
   return (
     <>
-      <Pokemon />
+      <MemoApp />
     </>
   );
 }
