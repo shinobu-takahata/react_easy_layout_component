@@ -11,12 +11,13 @@
 // import Timer from "./components/Timer/Timer";
 // import Starwars from "./components/Starwars/Starwars";
 // import Pokemon from "./components/Pokemon/Pokemon";
-import MemoApp from "./components/MemoApp/MemoApp";
+// import MemoApp from "./components/MemoApp/MemoApp";
+import Todo from "./components/Todo/Todo";
 
 function App() {
   return (
     <>
-      <MemoApp />
+      <Todo />
     </>
   );
 }
