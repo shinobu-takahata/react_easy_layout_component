@@ -8,12 +8,13 @@
 // import Clock from "./components/Clock/Clock";
 // import RandomQuotes from "./components/RandomQuotes/RandomQuotes";
 // import TrafficLight from "./components/TrafficLight/TrafficLight";
-import Timer from "./components/Timer/Timer";
+// import Timer from "./components/Timer/Timer";
+import Starwars from "./components/Starwars/Starwars";
 
 function App() {
   return (
     <>
-      <Timer />
+      <Starwars />
     </>
   );
 }
