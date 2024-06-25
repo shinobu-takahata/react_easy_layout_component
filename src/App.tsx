@@ -9,12 +9,13 @@
 // import RandomQuotes from "./components/RandomQuotes/RandomQuotes";
 // import TrafficLight from "./components/TrafficLight/TrafficLight";
 // import Timer from "./components/Timer/Timer";
-import Starwars from "./components/Starwars/Starwars";
+// import Starwars from "./components/Starwars/Starwars";
+import Pokemon from "./components/Pokemon/Pokemon";
 
 function App() {
   return (
     <>
-      <Starwars />
+      <Pokemon />
     </>
   );
 }
