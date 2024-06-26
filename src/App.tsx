@@ -13,12 +13,13 @@
 // import Pokemon from "./components/Pokemon/Pokemon";
 // import MemoApp from "./components/MemoApp/MemoApp";
 // import Todo from "./components/Todo/Todo";
-import Diary from "./components/Diary/Diary";
+// import Diary from "./components/Diary/Diary";
+import SearchUser from "./components/SearchUser/SearchUser";
 
 function App() {
   return (
     <>
-      <Diary />
+      <SearchUser />
     </>
   );
 }
