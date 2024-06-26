@@ -12,12 +12,13 @@
 // import Starwars from "./components/Starwars/Starwars";
 // import Pokemon from "./components/Pokemon/Pokemon";
 // import MemoApp from "./components/MemoApp/MemoApp";
-import Todo from "./components/Todo/Todo";
+// import Todo from "./components/Todo/Todo";
+import Diary from "./components/Diary/Diary";
 
 function App() {
   return (
     <>
-      <Todo />
+      <Diary />
     </>
   );
 }
